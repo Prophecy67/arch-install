@@ -316,7 +316,7 @@ install_packages() {
     packages+=' icedtea-web-java7 jdk7-openjdk jre7-openjdk'
 
     # Libreoffice
-    packages+=' libreoffice'
+    packages+=' libreoffice-still'
 
     # Misc programs
     packages+=' mplayer pidgin vlc xscreensaver gparted dosfstools ntfsprogs'
